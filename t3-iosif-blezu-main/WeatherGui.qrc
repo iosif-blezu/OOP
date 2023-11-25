@@ -1,0 +1,4 @@
+<RCC>
+    <qresource prefix="WeatherGui">
+    </qresource>
+</RCC>
