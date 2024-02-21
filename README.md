@@ -42,7 +42,7 @@ The project employs several OOP design patterns, including:
 - `example.html`, `watchlist.html`: Sample output files.
 
 
-## Other:
+## Other
 
 This was one of the more complex assignments. The other project in this repo is a test of 1 hour, implemented with a visual interface made in QT, in which I managed to get a 10.
 
